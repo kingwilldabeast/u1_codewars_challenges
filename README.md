@@ -1,4 +1,3 @@
-### SEBR 0116
 
 # Introduction to Codewars
 
@@ -34,6 +33,10 @@ Codewars is an interactive platform used to practice coding challenges that you 
 
 [Reversed String](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 
-## Submission
+## Problem 6
 
-- Submit your your pull request following these guidelines: [PR Guidelines](https://github.com/bmorataya3/Pull-Request-Template/blob/main/README.md)
+[Slow Down!](https://www.codewars.com/kata/57f59da8d3978bb31f000152/train/javascript)
+
+## Problem 7 
+
+[Leap Years](https://www.codewars.com/kata/526c7363236867513f0005ca)
